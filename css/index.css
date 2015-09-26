@@ -1,0 +1,32 @@
+#bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+h1 {
+  font-family: "Cutive", serif;
+  text-align: center;
+  color: #B5003A !important;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+h2, h3, h4 {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
